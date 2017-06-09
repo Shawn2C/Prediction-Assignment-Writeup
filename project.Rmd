@@ -1,8 +1,7 @@
 ---
-title: "Quantified Self Movement Data Analysis Report - Practical Machine Learning Project"
+title: "PML Project"
 author: "Sor-2C"
 date: "May/18/2017"
-output: html_document
 ---
 
 Practical Machine Learning Course Project Report  
