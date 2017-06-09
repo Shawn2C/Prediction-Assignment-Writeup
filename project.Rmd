@@ -1,7 +1,7 @@
 ---
 title: "PML Project"
 author: "Sor-2C"
-date: "May/18/2017"
+date: "June/08/2017"
 ---
 
 Practical Machine Learning Course Project Report  
